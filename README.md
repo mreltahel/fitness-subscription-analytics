@@ -36,18 +36,18 @@ The `Revenue Forecast` page plots monthly subscription revenue from January 2024
 
 ### 3. CAC vs. LTV — How long to break even?
 
-The `CAC vs. LTV` page compares cumulative customer lifetime value (LTV) against total customer acquisition cost (CAC) for the 2024 and 2025 cohorts, over their first 9 months (the longest window with complete data for both cohorts).
+The `CAC vs. LTV` page compares cumulative customer lifetime value (LTV) against each cohort's own total customer acquisition cost (CAC) for the 2024 and 2025 cohorts, over their first 9 months (the longest window with complete data for both cohorts). Both cohorts are plotted on the same chart, each against its own CAC benchmark.
 
 | Cohort | Break-even point |
 |---|---|
 | 2024 | ~Month 4–5 |
-| 2025 | ~Month 2–3 |
+| 2025 | ~Month 4–5 |
 
-**Takeaway:** the 2025 cohort is recovering its acquisition cost noticeably faster than the 2024 cohort. This suggests FitnessHub's unit economics are improving year over year, whether from better-targeted acquisition channels, higher average revenue per customer, or pricing changes. This is a positive signal for the sustainability of the company's growth strategy.
+**Takeaway:** both cohorts recover their acquisition cost on a similar timeline, around month 4 to 5. Unit economics appear stable year over year rather than improving or worsening, FitnessHub is acquiring 2025 customers at a scale and cost that tracks closely with the revenue they generate, consistent with the 2024 cohort's performance. This is a reasonable signal for the sustainability of the company's growth strategy, though there is room to improve the break-even timeline itself (for example, through pricing, upsells, or targeting higher-value acquisition channels).
 
 ## Executive Summary
 
-FitnessHub's growth strategy appears sustainable and improving: newer (2025) customers are paying back their acquisition cost faster than 2024 customers did, and overall subscription revenue is forecast to keep growing steadily with no seasonal headwinds. However, retention is a clear area for improvement — nearly a third of each cohort cancels between months 2 and 3 of their subscription. We recommend the retention team prioritize engagement and intervention efforts specifically targeted at customers approaching their second month, since this is where the largest, most consistent drop-off occurs across every cohort analyzed.
+FitnessHub's growth strategy appears sustainable: both the 2024 and 2025 customer cohorts recover their acquisition cost on a similar timeline (around month 4–5), and overall subscription revenue is forecast to keep growing steadily with no seasonal headwinds. However, retention is a clear area for improvement — nearly a third of each cohort cancels between months 2 and 3 of their subscription. We recommend the retention team prioritize engagement and intervention efforts specifically targeted at customers approaching their second month, since this is where the largest, most consistent drop-off occurs across every cohort analyzed. Shortening the CAC break-even window (currently 4–5 months) would further strengthen unit economics and could be explored through pricing, upsells, or more efficient acquisition channels.
 
 ## Repository Structure
 
